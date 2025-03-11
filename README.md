@@ -3,7 +3,7 @@
 ## 📌 Overview
 Dashboard ini dirancang untuk menganalisis pola penyewaan sepeda berdasarkan berbagai faktor seperti cuaca, waktu, dan musim. Dibangun dengan Python dan Streamlit, dashboard ini menawarkan visualisasi data yang interaktif dan informatif.
 
-## 🚀 Getting Started
+## Getting Started
 ### 1. Prerequisites
 Pastikan Python (versi 3.7 atau lebih baru) sudah terinstal di sistem.
 
@@ -22,7 +22,7 @@ streamlit run dashboard/dashboard.py
 ### 4. Access the Dashboard
 Setelah dijalankan, dashboard akan otomatis terbuka di browser default.
 
-## 📊 Key Features
+## Key Features
 - **Data Visualization**: Menampilkan pola penyewaan sepeda berdasarkan berbagai faktor.
 - **Time Analysis**: Tren penyewaan berdasarkan jam, hari, dan musim.
 - **Weather Impact**: Analisis pengaruh cuaca terhadap jumlah penyewaan.
@@ -31,7 +31,7 @@ Setelah dijalankan, dashboard akan otomatis terbuka di browser default.
 - **Seasonal Trends**: Analisis penyewaan berdasarkan musim.
 - **Hourly Trends**: Analisis penyewaan berdasarkan jam (hanya tersedia untuk dataset per jam).
 
-## 📂 Project Structure
+## Project Structure
 ```
 bike-sharing-dashboard/
 ├───dashboard/
@@ -46,6 +46,3 @@ bike-sharing-dashboard/
 ├───requirements.txt             
 └───url.txt                      
 ```
-
-## 🌍 Live Dashboard
-[Access the live dashboard here](https://submission-bikesharingdataset.streamlit.app/)
