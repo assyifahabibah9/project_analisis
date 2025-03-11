@@ -1,4 +1,3 @@
-```markdown
 # 🚴‍♂️ Bike Sharing Analytics Dashboard
 
 ## 📌 Overview
